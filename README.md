@@ -1,8 +1,5 @@
 #  Tetris Game
 
-## Overview
-* [**Demo Link**](https://bohdan-mykhailenko.github.io/hover_squares/)
-
 ## Description
 
 This project is a classical tetris game.
@@ -10,12 +7,12 @@ This project is a classical tetris game.
 
 - **7 Figures**: Includes seven unique Tetris figures, each with user-friendly alerts to show game information or errors with fetching data.
 - **Rotation**: Ensures full adaptability for different screen resolutions, allowing smooth rotation of the figures.
-- **Move to Left and Right*: Users can move the figures left or right, with options to choose the field size for a customized experience.
+- **Move to Left and Right**  Users can move the figures left or right, with options to choose the field size for a customized experience.
 _ **Increase Speed of Figures**: Allows users to increase the speed of falling figures by hovering over selected items and return to normal speed by unhovering them.
 
 ## Future improvements
 
-- **More Friendly UI*: Enhance the user interface to be more intuitive and visually appealing, making the game more enjoyable for players of all ages.
+- **More Friendly UI**: Enhance the user interface to be more intuitive and visually appealing, making the game more enjoyable for players of all ages.
 - **Shadow Position for Each Figure**: Implement shadow positions for each figure, providing a preview of where the figure will land and helping players make more strategic moves.
   
 ## Technologies
